@@ -5,7 +5,7 @@ authors = ["AbdullahHalari <droidabdullah@gmail.com>"]
 edition = "2018"
 description = "my first library"
 license = "MIT"
-repository = https://github.com/AbdullahHalari/library.git
+repository = "https://github.com/AbdullahHalari/library.git"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
