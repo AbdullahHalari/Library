@@ -1,6 +1,6 @@
 [package]
 name = "evenodd_checker"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["AbdullahHalari <droidabdullah@gmail.com>"]
 edition = "2018"
 description = "first write use evenodd_checker::evenodd; then in main function write let a = evenodd() give any number as a parameter then print"
