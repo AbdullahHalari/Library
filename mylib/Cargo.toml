@@ -3,7 +3,7 @@ name = "evenodd_checker"
 version = "0.1.0"
 authors = ["AbdullahHalari <droidabdullah@gmail.com>"]
 edition = "2018"
-description = "evenodd checker let a = evenodd() give any number as a parameter then print"
+description = "first write use evenodd_checker::evenodd; then in main function write let a = evenodd() give any number as a parameter then print"
 license = "MIT"
 repository = "https://github.com/AbdullahHalari/library.git"
 
